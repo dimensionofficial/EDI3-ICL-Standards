@@ -1,0 +1,110 @@
+
+{
+  "count": 382,
+  "limit": 20,
+  "next": "/packageTypes?start=21&limit=20",
+  "previous": "",
+  "results": [
+    {
+      "Code": "1A",
+      "Description": "",
+      "Name": "Drum, steel"
+    },
+    {
+      "Code": "1B",
+      "Description": "",
+      "Name": "Drum, aluminium"
+    },
+    {
+      "Code": "1D",
+      "Description": "",
+      "Name": "Drum, plywood"
+    },
+    {
+      "Code": "1F",
+      "Description": "A packaging container of flexible construction.",
+      "Name": "Container, flexible"
+    },
+    {
+      "Code": "1G",
+      "Description": "",
+      "Name": "Drum, fibre"
+    },
+    {
+      "Code": "1W",
+      "Description": "",
+      "Name": "Drum, wooden"
+    },
+    {
+      "Code": "2C",
+      "Description": "",
+      "Name": "Barrel, wooden"
+    },
+    {
+      "Code": "3A",
+      "Description": "",
+      "Name": "Jerrican, steel"
+    },
+    {
+      "Code": "3H",
+      "Description": "",
+      "Name": "Jerrican, plastic"
+    },
+    {
+      "Code": "43",
+      "Description": "A cloth plastic or paper based bag having the dimensions of the pallet on which it is constructed.",
+      "Name": "Bag, super bulk"
+    },
+    {
+      "Code": "44",
+      "Description": "A type of plastic bag, typically used to wrap promotional pieces, publications, product samples, and/or catalogues. ",
+      "Name": "Bag, polybag"
+    },
+    {
+      "Code": "4A",
+      "Description": "",
+      "Name": "Box, steel"
+    },
+    {
+      "Code": "4B",
+      "Description": "",
+      "Name": "Box, aluminium"
+    },
+    {
+      "Code": "4C",
+      "Description": "",
+      "Name": "Box, natural wood"
+    },
+    {
+      "Code": "4D",
+      "Description": "",
+      "Name": "Box, plywood"
+    },
+    {
+      "Code": "4F",
+      "Description": "",
+      "Name": "Box, reconstituted wood"
+    },
+    {
+      "Code": "4G",
+      "Description": "",
+      "Name": "Box, fibreboard"
+    },
+    {
+      "Code": "4H",
+      "Description": "",
+      "Name": "Box, plastic"
+    },
+    {
+      "Code": "5H",
+      "Description": "",
+      "Name": "Bag, woven plastic"
+    },
+    {
+      "Code": "5L",
+      "Description": "",
+      "Name": "Bag, textile "
+    }
+  ],
+  "start": 1
+}

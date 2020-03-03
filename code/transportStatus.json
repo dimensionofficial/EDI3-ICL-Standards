@@ -1,0 +1,110 @@
+
+{
+  "count": 345,
+  "limit": 20,
+  "next": "/recommendation-24/transportStatus?start=21&limit=20",
+  "previous": "",
+  "results": [
+    {
+      "Code": "1",
+      "Description": "The goods/consignment/equipment/means of transport has arrived.",
+      "Name": "Arrival, completed"
+    },
+    {
+      "Code": "2",
+      "Description": "Authorisation to load has been given.",
+      "Name": "Loading, authorized"
+    },
+    {
+      "Code": "3",
+      "Description": "The goods/consignment/equipment or a means of transport has arrived in a defective condition.",
+      "Name": "Arrival, in defective condition"
+    },
+    {
+      "Code": "4",
+      "Description": "The equipment previously the subject of a 'defective condition' status has been returned to service.",
+      "Name": "Defective equipment returned to service"
+    },
+    {
+      "Code": "5",
+      "Description": "The process has begun.",
+      "Name": "Process, begun"
+    },
+    {
+      "Code": "6",
+      "Description": "The goods/consignment/equipment or means of transport has been booked.",
+      "Name": "Booking, completed"
+    },
+    {
+      "Code": "7",
+      "Description": "The booking of goods/consignment/equipment or means of transport has been cancelled.",
+      "Name": "Booking, cancelled"
+    },
+    {
+      "Code": "8",
+      "Description": "The goods/consignment/equipment/means of transport held for import restriction purposes has been released for import.",
+      "Name": "Cleared, import restrictions"
+    },
+    {
+      "Code": "9",
+      "Description": "The goods/consignment/equipment/means of transport held for export restriction purposes has been released for export.",
+      "Name": "Cleared, export restrictions"
+    },
+    {
+      "Code": "10",
+      "Description": "The goods/consignment/equipment/means of transport has been cleared by agriculture food or fisheries authorities.",
+      "Name": "Cleared, by agriculture, food or fisheries authorities"
+    },
+    {
+      "Code": "11",
+      "Description": "The goods/consignment/equipment/means of transport has been cleared by port authority.",
+      "Name": "Cleared, by port authority"
+    },
+    {
+      "Code": "12",
+      "Description": "The goods/consignment/equipment/means of transport has been cleared by customs.",
+      "Name": "Cleared, by customs"
+    },
+    {
+      "Code": "13",
+      "Description": "The goods/consignment/equipment has been collected/picked-up.",
+      "Name": "Collection/pick-up, completed"
+    },
+    {
+      "Code": "14",
+      "Description": "The process has been completed.",
+      "Name": "Process, completed"
+    },
+    {
+      "Code": "15",
+      "Description": "The goods/consignments have been consolidated.",
+      "Name": "Consolidated"
+    },
+    {
+      "Code": "16",
+      "Description": "The goods/consignments/equipment/means of transport has crossed a border. ",
+      "Name": "Crossed border"
+    },
+    {
+      "Code": "17",
+      "Description": "The goods/consignment/equipment/means of transport has been refused to be cleared by the customs authorities.",
+      "Name": "Customs clearance, refused"
+    },
+    {
+      "Code": "18",
+      "Description": "The goods/consignment/equipment has been damaged in the course of transportation.",
+      "Name": "Damaged in the course of transportation"
+    },
+    {
+      "Code": "19",
+      "Description": "Damaged equipment has been assessed and a repair quotation has been sent.",
+      "Name": "Equipment, damage quoted for"
+    },
+    {
+      "Code": "20",
+      "Description": "The goods/consignment/equipment/means of transport has been delayed in the course of transportation.",
+      "Name": "Delayed, in the course of transportation"
+    }
+  ],
+  "start": 1
+}
