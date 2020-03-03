@@ -1,4 +1,4 @@
-![image](pic/ICLvision.JPG)  
+![image](https://github.com/dimensionofficial/EDI3-ICL-Standards/blob/master/pic/ICLvision.JPG)  
 Licence (http://edi3.org#licence)  
 Change Process (http://edi3.org#change-process)  
 Language (http://edi3.org#language)  
